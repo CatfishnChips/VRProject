@@ -1,2 +1,2 @@
-# OpenXR-UnityTemplate
- Empty XR Template with Interactables
+# GAME 202 VR Project
+ 
